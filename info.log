@@ -73,7 +73,7 @@ location: /c/Users/.../Desktop/projects/run-buddy
    61  git push origin master
 
 -- check if you have SSH keys installed on your computer
-   62  ls -al~/.ssh
+   62  ls -al ~/.ssh
    63  ls-al~/.ssh
    64  id_rsa
 
